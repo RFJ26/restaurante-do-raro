@@ -197,7 +197,7 @@ clip-path: polygon(0% 0%, 100% 0, 100% 50%, 100% 100%, 0% 100%);
 
 }
 .single_menu img {
-    margin-right: 60px;
+    margin-right: 70px;
     width: 17%;
     position: absolute;
     height: 150px;
@@ -207,7 +207,7 @@ clip-path: polygon(0% 0%, 100% 0, 100% 50%, 100% 100%, 0% 100%);
     border-radius: 10%;
 }
 .menu_content {
-    margin-left: 230px;
+    margin-left: 300px;
     
 }
 .menu_content h4 {
